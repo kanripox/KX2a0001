@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KX2a0001_ZHSJ">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>史記</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published by @kanripo on GitHub.com</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>ZHSJ</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+      <sourceDoc>
+<xi:include href='KX2a0001_001.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_002.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_003.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_004.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_005.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_006.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_007.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_008.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_009.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_010.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_011.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_012.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_013.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_014.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_015.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_016.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_017.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_018.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_019.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_020.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_021.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_022.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_023.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_024.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_025.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_026.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_027.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_028.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_029.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_030.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_031.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_032.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_033.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_034.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_035.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_036.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_037.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_038.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_039.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_040.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_041.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_042.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_043.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_044.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_045.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_046.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_047.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_048.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_049.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_050.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_051.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_052.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_053.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_054.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_055.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_056.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_057.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_058.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_059.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_060.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_061.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_062.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_063.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_064.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_065.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_066.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_067.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_068.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_069.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_070.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_071.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_072.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_073.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_074.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_075.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_076.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_077.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_078.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_079.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_080.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_081.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_082.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_083.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_084.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_085.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_086.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_087.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_088.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_089.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_090.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_091.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_092.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_093.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_094.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_095.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_096.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_097.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_098.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_099.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_100.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_101.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_102.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_103.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_104.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_105.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_106.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_107.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_108.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_109.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_110.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_111.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_112.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_113.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_114.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_115.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_116.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_117.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_118.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_119.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_120.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_121.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_122.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_123.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_124.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_125.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_126.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_127.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_128.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_129.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX2a0001_130.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+</sourceDoc>
+</TEI>
