@@ -1,193 +1,193 @@
 <surfaceGrp xmlns='http://www.tei-c.org/ns/1.0' xml:id='KX2a0001_ZHSJ_035'>
 <surface type='dummy'></surface>
-<surface xml:id='SHIJI_ZHSJ_35-1563a-z'>
-<pb ed='ZHSJ' n='35-1563a' xml:id='SHIJI_ZHSJ_35-1563a'/><line xml:id='SHIJI_ZHSJ_35-1563a.01'>史記卷三十五</line>
-<line xml:id='SHIJI_ZHSJ_35-1563a.02'>　　管蔡世家第五</line>
-<line xml:id='SHIJI_ZHSJ_35-1563a.03'>　　管叔鮮､〔一〕蔡叔度者，周文王子而武王弟也．武王同母兄弟十人．母曰太姒，〔二〕文</line>
-<line xml:id='SHIJI_ZHSJ_35-1563a.04'>王正妃也．其長子曰伯邑考，次曰武王發，次曰管叔鮮，次曰周公旦，次曰蔡叔度，次曰曹</line>
-<line xml:id='SHIJI_ZHSJ_35-1563a.05'>叔振鐸，次曰成叔武，〔三〕次曰霍叔處，〔四〕次曰康叔封，〔五〕次曰季載．〔六〕季載最少．同</line>
-<line xml:id='SHIJI_ZHSJ_35-1563a.06'>母昆弟十人，〔七〕唯發､旦賢，左右輔文王，〔八〕故文王舍伯邑考而以發為太子．及文王崩而</line>
-<line xml:id='SHIJI_ZHSJ_35-1563a.07'>發立，是為武王．伯邑考既已前卒矣．</line>
-<line xml:id='SHIJI_ZHSJ_35-1563a.08'>〔一〕　正義音仙．括地志云：「鄭州管城縣，今州外城即管國城也，是叔鮮所封國也．」</line>
-<line xml:id='SHIJI_ZHSJ_35-1563a.09'>〔二〕　正義國語云：「嵵､繒二國，姒姓，夏禹之後，太姒之家．太姒，文王之妃，武王之母．」列女傳云：「太姒者，武王</line>
-<line xml:id='SHIJI_ZHSJ_35-1563a.10'>　　　　之母，禹後姒氏之女也．在郃之陽，在渭之涘．仁而明道，文王嘉之，親迎于渭，造舟為梁．及入，太姒思媚太</line>
-<line xml:id='SHIJI_ZHSJ_35-1563a.11'>　　　　姜､太任，旦夕勤勞，以進婦道．太姒號曰文母．文王理外，文母治內．太姒生十男，教誨自少及長，未嘗見邪僻</line>
-<line xml:id='SHIJI_ZHSJ_35-1563a.12'>　　　　之事，言常以正道持之也．」</line>
-<line xml:id='SHIJI_ZHSJ_35-1563a.13'>〔三〕　正義括地志云：「在濮州雷澤縣東南九十一里，漢郕陽縣．古郕伯，姬姓之國，其後遷於成之陽．」</line>
+<surface xml:id='KX2a0001_ZHSJ_35-1563a-z'>
+<pb ed='ZHSJ' n='35-1563a' xml:id='KX2a0001_ZHSJ_35-1563a'/><line xml:id='KX2a0001_ZHSJ_35-1563a.01'>史記卷三十五</line>
+<line xml:id='KX2a0001_ZHSJ_35-1563a.02'>　　管蔡世家第五</line>
+<line xml:id='KX2a0001_ZHSJ_35-1563a.03'>　　管叔鮮､〔一〕蔡叔度者，周文王子而武王弟也．武王同母兄弟十人．母曰太姒，〔二〕文</line>
+<line xml:id='KX2a0001_ZHSJ_35-1563a.04'>王正妃也．其長子曰伯邑考，次曰武王發，次曰管叔鮮，次曰周公旦，次曰蔡叔度，次曰曹</line>
+<line xml:id='KX2a0001_ZHSJ_35-1563a.05'>叔振鐸，次曰成叔武，〔三〕次曰霍叔處，〔四〕次曰康叔封，〔五〕次曰季載．〔六〕季載最少．同</line>
+<line xml:id='KX2a0001_ZHSJ_35-1563a.06'>母昆弟十人，〔七〕唯發､旦賢，左右輔文王，〔八〕故文王舍伯邑考而以發為太子．及文王崩而</line>
+<line xml:id='KX2a0001_ZHSJ_35-1563a.07'>發立，是為武王．伯邑考既已前卒矣．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1563a.08'>〔一〕　正義音仙．括地志云：「鄭州管城縣，今州外城即管國城也，是叔鮮所封國也．」</line>
+<line xml:id='KX2a0001_ZHSJ_35-1563a.09'>〔二〕　正義國語云：「嵵､繒二國，姒姓，夏禹之後，太姒之家．太姒，文王之妃，武王之母．」列女傳云：「太姒者，武王</line>
+<line xml:id='KX2a0001_ZHSJ_35-1563a.10'>　　　　之母，禹後姒氏之女也．在郃之陽，在渭之涘．仁而明道，文王嘉之，親迎于渭，造舟為梁．及入，太姒思媚太</line>
+<line xml:id='KX2a0001_ZHSJ_35-1563a.11'>　　　　姜､太任，旦夕勤勞，以進婦道．太姒號曰文母．文王理外，文母治內．太姒生十男，教誨自少及長，未嘗見邪僻</line>
+<line xml:id='KX2a0001_ZHSJ_35-1563a.12'>　　　　之事，言常以正道持之也．」</line>
+<line xml:id='KX2a0001_ZHSJ_35-1563a.13'>〔三〕　正義括地志云：「在濮州雷澤縣東南九十一里，漢郕陽縣．古郕伯，姬姓之國，其後遷於成之陽．」</line>
 </surface>
-<surface xml:id='SHIJI_ZHSJ_35-1564a-z'>
-<pb ed='ZHSJ' n='35-1564a' xml:id='SHIJI_ZHSJ_35-1564a'/><line xml:id='SHIJI_ZHSJ_35-1564a.01'>〔四〕　正義處，昌汝反．括地志云：「晉州霍邑縣本漢彘縣也．鄭玄注周禮云霍山在彘，本春秋時霍伯國地．」</line>
-<line xml:id='SHIJI_ZHSJ_35-1564a.02'>〔五〕　索隱孔安國曰：「康，畿內國名，地闕．叔，字也．封，叔名．」</line>
-<line xml:id='SHIJI_ZHSJ_35-1564a.03'>〔六〕　索隱，國也．載，名也．季，字也．，或作「」．按：國語曰由鄭姬．賈逵曰「文王子季之國」也．莊</line>
-<line xml:id='SHIJI_ZHSJ_35-1564a.04'>　　　　十八年「楚武王克權，遷於處」．杜預云「處，楚地．南郡編縣有口城」．與皆音奴甘反．　正義</line>
-<line xml:id='SHIJI_ZHSJ_35-1564a.05'>　　　　音奴甘反．或作「」，音同．國名也．季載，人名也．伯邑考最長，所以加「伯」．諸中子咸言「叔」，以載最</line>
-<line xml:id='SHIJI_ZHSJ_35-1564a.06'>　　　　少，故言季載．</line>
-<line xml:id='SHIJI_ZHSJ_35-1564a.07'>〔七〕　集解徐廣曰：「文王之子為侯者十有六國．」</line>
-<line xml:id='SHIJI_ZHSJ_35-1564a.08'>〔八〕　正義左右並去聲．</line>
-<line xml:id='SHIJI_ZHSJ_35-1564a.09'>　　武王已克殷紂，平天下，封功臣昆弟．於是封叔鮮於管，〔一〕封叔度於蔡：〔二〕二人相紂</line>
-<line xml:id='SHIJI_ZHSJ_35-1564a.10'>子武庚祿父，治殷遺民．封叔旦於魯而相周，為周公．封叔振鐸於曹，封叔武於成，〔三〕封</line>
-<line xml:id='SHIJI_ZHSJ_35-1564a.11'>叔處於霍．〔四〕康叔封､季載皆少，未得封．</line>
-<line xml:id='SHIJI_ZHSJ_35-1564a.12'>〔一〕　集解杜預曰：「管在滎陽京縣東北．」</line>
-<line xml:id='SHIJI_ZHSJ_35-1564a.13'>〔二〕　集解世本曰：「居上蔡．」</line>
-<line xml:id='SHIJI_ZHSJ_35-1564a.14'>〔三〕　索隱按：春秋隱五年「衞師入郕」．杜預曰「東平剛父縣有郕鄉」．後漢郡國志以為成本國．又地理志廩丘縣</line>
-<line xml:id='SHIJI_ZHSJ_35-1564a.15'>　　　　南有成故城．應劭云「武王封弟季載於成」，是古之成邑，應仲遠誤云季載封耳．</line>
-<line xml:id='SHIJI_ZHSJ_35-1564a.16'>〔四〕　索隱春秋閔元年晉滅霍．地理志河東彘縣，霍太山在東北，是霍叔之所封．</line>
+<surface xml:id='KX2a0001_ZHSJ_35-1564a-z'>
+<pb ed='ZHSJ' n='35-1564a' xml:id='KX2a0001_ZHSJ_35-1564a'/><line xml:id='KX2a0001_ZHSJ_35-1564a.01'>〔四〕　正義處，昌汝反．括地志云：「晉州霍邑縣本漢彘縣也．鄭玄注周禮云霍山在彘，本春秋時霍伯國地．」</line>
+<line xml:id='KX2a0001_ZHSJ_35-1564a.02'>〔五〕　索隱孔安國曰：「康，畿內國名，地闕．叔，字也．封，叔名．」</line>
+<line xml:id='KX2a0001_ZHSJ_35-1564a.03'>〔六〕　索隱，國也．載，名也．季，字也．，或作「」．按：國語曰由鄭姬．賈逵曰「文王子季之國」也．莊</line>
+<line xml:id='KX2a0001_ZHSJ_35-1564a.04'>　　　　十八年「楚武王克權，遷於處」．杜預云「處，楚地．南郡編縣有口城」．與皆音奴甘反．　正義</line>
+<line xml:id='KX2a0001_ZHSJ_35-1564a.05'>　　　　音奴甘反．或作「」，音同．國名也．季載，人名也．伯邑考最長，所以加「伯」．諸中子咸言「叔」，以載最</line>
+<line xml:id='KX2a0001_ZHSJ_35-1564a.06'>　　　　少，故言季載．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1564a.07'>〔七〕　集解徐廣曰：「文王之子為侯者十有六國．」</line>
+<line xml:id='KX2a0001_ZHSJ_35-1564a.08'>〔八〕　正義左右並去聲．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1564a.09'>　　武王已克殷紂，平天下，封功臣昆弟．於是封叔鮮於管，〔一〕封叔度於蔡：〔二〕二人相紂</line>
+<line xml:id='KX2a0001_ZHSJ_35-1564a.10'>子武庚祿父，治殷遺民．封叔旦於魯而相周，為周公．封叔振鐸於曹，封叔武於成，〔三〕封</line>
+<line xml:id='KX2a0001_ZHSJ_35-1564a.11'>叔處於霍．〔四〕康叔封､季載皆少，未得封．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1564a.12'>〔一〕　集解杜預曰：「管在滎陽京縣東北．」</line>
+<line xml:id='KX2a0001_ZHSJ_35-1564a.13'>〔二〕　集解世本曰：「居上蔡．」</line>
+<line xml:id='KX2a0001_ZHSJ_35-1564a.14'>〔三〕　索隱按：春秋隱五年「衞師入郕」．杜預曰「東平剛父縣有郕鄉」．後漢郡國志以為成本國．又地理志廩丘縣</line>
+<line xml:id='KX2a0001_ZHSJ_35-1564a.15'>　　　　南有成故城．應劭云「武王封弟季載於成」，是古之成邑，應仲遠誤云季載封耳．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1564a.16'>〔四〕　索隱春秋閔元年晉滅霍．地理志河東彘縣，霍太山在東北，是霍叔之所封．</line>
 </surface>
-<surface xml:id='SHIJI_ZHSJ_35-1565a-z'>
-<pb ed='ZHSJ' n='35-1565a' xml:id='SHIJI_ZHSJ_35-1565a'/><line xml:id='SHIJI_ZHSJ_35-1565a.01'>　　武王既崩，成王少，周公旦專王室．管叔､蔡叔疑周公之為不利於成王，乃挾武庚以作</line>
-<line xml:id='SHIJI_ZHSJ_35-1565a.02'>亂．周公旦承成王命伐誅武庚，殺管叔，而放蔡叔，遷之，與車十乘，徒七十人從．而分殷</line>
-<line xml:id='SHIJI_ZHSJ_35-1565a.03'>餘民為二：其一封微子啟於宋，以續殷祀；其一封康叔為衞君，是為衞康叔．封季載於．</line>
-<line xml:id='SHIJI_ZHSJ_35-1565a.04'>季､康叔皆有馴行，〔一〕於是周公舉康叔為周司寇，季為周司空，〔二〕以佐成王治，皆有</line>
-<line xml:id='SHIJI_ZHSJ_35-1565a.05'>令名於天下．</line>
-<line xml:id='SHIJI_ZHSJ_35-1565a.06'>〔一〕　索隱如字，音巡．馴，善也．</line>
-<line xml:id='SHIJI_ZHSJ_35-1565a.07'>〔二〕　索隱事見定四年左傳．</line>
-<line xml:id='SHIJI_ZHSJ_35-1565a.08'>　　蔡叔度既遷而死．其子曰胡，胡乃改行，率德馴善．周公聞之，而舉胡以為魯卿士，〔一〕</line>
-<line xml:id='SHIJI_ZHSJ_35-1565a.09'>魯國治．於是周公言於成王，復封胡於蔡，〔二〕以奉蔡叔之祀，是為蔡仲．餘五叔皆就</line>
-<line xml:id='SHIJI_ZHSJ_35-1565a.10'>國，〔三〕無為天子吏者．</line>
-<line xml:id='SHIJI_ZHSJ_35-1565a.11'>〔一〕　索隱按：尚書云蔡仲克庸祗德，周公以為卿士，叔卒，乃命諸王，封之蔡，元無仕魯之文．又伯禽居魯乃是七</line>
-<line xml:id='SHIJI_ZHSJ_35-1565a.12'>　　　　年致政之後，此言乃說居攝政之初，未知史遷何憑而有斯言也．</line>
-<line xml:id='SHIJI_ZHSJ_35-1565a.13'>〔二〕　集解宋忠曰：「胡徙居新蔡．」</line>
-<line xml:id='SHIJI_ZHSJ_35-1565a.14'>〔三〕　索隱管叔､蔡叔､成叔､曹叔､霍叔．</line>
+<surface xml:id='KX2a0001_ZHSJ_35-1565a-z'>
+<pb ed='ZHSJ' n='35-1565a' xml:id='KX2a0001_ZHSJ_35-1565a'/><line xml:id='KX2a0001_ZHSJ_35-1565a.01'>　　武王既崩，成王少，周公旦專王室．管叔､蔡叔疑周公之為不利於成王，乃挾武庚以作</line>
+<line xml:id='KX2a0001_ZHSJ_35-1565a.02'>亂．周公旦承成王命伐誅武庚，殺管叔，而放蔡叔，遷之，與車十乘，徒七十人從．而分殷</line>
+<line xml:id='KX2a0001_ZHSJ_35-1565a.03'>餘民為二：其一封微子啟於宋，以續殷祀；其一封康叔為衞君，是為衞康叔．封季載於．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1565a.04'>季､康叔皆有馴行，〔一〕於是周公舉康叔為周司寇，季為周司空，〔二〕以佐成王治，皆有</line>
+<line xml:id='KX2a0001_ZHSJ_35-1565a.05'>令名於天下．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1565a.06'>〔一〕　索隱如字，音巡．馴，善也．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1565a.07'>〔二〕　索隱事見定四年左傳．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1565a.08'>　　蔡叔度既遷而死．其子曰胡，胡乃改行，率德馴善．周公聞之，而舉胡以為魯卿士，〔一〕</line>
+<line xml:id='KX2a0001_ZHSJ_35-1565a.09'>魯國治．於是周公言於成王，復封胡於蔡，〔二〕以奉蔡叔之祀，是為蔡仲．餘五叔皆就</line>
+<line xml:id='KX2a0001_ZHSJ_35-1565a.10'>國，〔三〕無為天子吏者．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1565a.11'>〔一〕　索隱按：尚書云蔡仲克庸祗德，周公以為卿士，叔卒，乃命諸王，封之蔡，元無仕魯之文．又伯禽居魯乃是七</line>
+<line xml:id='KX2a0001_ZHSJ_35-1565a.12'>　　　　年致政之後，此言乃說居攝政之初，未知史遷何憑而有斯言也．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1565a.13'>〔二〕　集解宋忠曰：「胡徙居新蔡．」</line>
+<line xml:id='KX2a0001_ZHSJ_35-1565a.14'>〔三〕　索隱管叔､蔡叔､成叔､曹叔､霍叔．</line>
 </surface>
-<surface xml:id='SHIJI_ZHSJ_35-1566a-z'>
-<pb ed='ZHSJ' n='35-1566a' xml:id='SHIJI_ZHSJ_35-1566a'/><line xml:id='SHIJI_ZHSJ_35-1566a.01'>　　蔡仲卒，子蔡伯荒立．蔡伯荒卒，子宮侯立．宮侯卒，子厲侯立．厲侯卒，子武侯立．</line>
-<line xml:id='SHIJI_ZHSJ_35-1566a.02'>武侯之時，周厲王失國，奔彘，共和行政，諸侯多叛周．</line>
-<line xml:id='SHIJI_ZHSJ_35-1566a.03'>　　武侯卒，子夷侯立．夷侯十一年，周宣王即位．二十八年，夷侯卒，子釐侯所事立．</line>
-<line xml:id='SHIJI_ZHSJ_35-1566a.04'>　　釐侯三十九年，周幽王為犬戎所殺，周室卑而東徙．秦始得列為諸侯．〔一〕</line>
-<line xml:id='SHIJI_ZHSJ_35-1566a.05'>〔一〕　正義周幽王為犬戎所殺，平王東徙洛邑，秦襄公以兵救，因送平王至洛，故平王封襄公．</line>
-<line xml:id='SHIJI_ZHSJ_35-1566a.06'>　　四十八年，釐侯卒，子共侯興立．共侯二年卒，子戴侯立．戴侯十年卒，子宣侯措父</line>
-<line xml:id='SHIJI_ZHSJ_35-1566a.07'>立．</line>
-<line xml:id='SHIJI_ZHSJ_35-1566a.08'>　　宣侯二十八年，魯隱公初立．三十五年，宣侯卒，子桓侯封人立．桓侯三年，魯弒其君</line>
-<line xml:id='SHIJI_ZHSJ_35-1566a.09'>隱公．二十年，桓侯卒，弟哀侯獻舞立．</line>
-<line xml:id='SHIJI_ZHSJ_35-1566a.10'>　　哀侯十一年，初，哀侯娶陳，息侯亦娶陳．〔一〕息夫人將歸，過蔡，蔡侯不敬．息侯怒，請</line>
-<line xml:id='SHIJI_ZHSJ_35-1566a.11'>楚文王：「來伐我，我求救於蔡，蔡必來，楚因擊之，可以有功．」楚文王從之，虜蔡哀侯以</line>
-<line xml:id='SHIJI_ZHSJ_35-1566a.12'>歸．哀侯留九歲，死於楚．凡立二十年卒．蔡人立其子肸，是為繆侯．</line>
-<line xml:id='SHIJI_ZHSJ_35-1566a.13'>〔一〕　集解杜預曰：「息國，汝南新息縣．」</line>
-<line xml:id='SHIJI_ZHSJ_35-1566a.14'>　　繆侯以其女弟為齊桓公夫人．十八年，齊桓公與蔡女戲船中，夫人蕩舟，桓公止之，不</line>
+<surface xml:id='KX2a0001_ZHSJ_35-1566a-z'>
+<pb ed='ZHSJ' n='35-1566a' xml:id='KX2a0001_ZHSJ_35-1566a'/><line xml:id='KX2a0001_ZHSJ_35-1566a.01'>　　蔡仲卒，子蔡伯荒立．蔡伯荒卒，子宮侯立．宮侯卒，子厲侯立．厲侯卒，子武侯立．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1566a.02'>武侯之時，周厲王失國，奔彘，共和行政，諸侯多叛周．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1566a.03'>　　武侯卒，子夷侯立．夷侯十一年，周宣王即位．二十八年，夷侯卒，子釐侯所事立．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1566a.04'>　　釐侯三十九年，周幽王為犬戎所殺，周室卑而東徙．秦始得列為諸侯．〔一〕</line>
+<line xml:id='KX2a0001_ZHSJ_35-1566a.05'>〔一〕　正義周幽王為犬戎所殺，平王東徙洛邑，秦襄公以兵救，因送平王至洛，故平王封襄公．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1566a.06'>　　四十八年，釐侯卒，子共侯興立．共侯二年卒，子戴侯立．戴侯十年卒，子宣侯措父</line>
+<line xml:id='KX2a0001_ZHSJ_35-1566a.07'>立．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1566a.08'>　　宣侯二十八年，魯隱公初立．三十五年，宣侯卒，子桓侯封人立．桓侯三年，魯弒其君</line>
+<line xml:id='KX2a0001_ZHSJ_35-1566a.09'>隱公．二十年，桓侯卒，弟哀侯獻舞立．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1566a.10'>　　哀侯十一年，初，哀侯娶陳，息侯亦娶陳．〔一〕息夫人將歸，過蔡，蔡侯不敬．息侯怒，請</line>
+<line xml:id='KX2a0001_ZHSJ_35-1566a.11'>楚文王：「來伐我，我求救於蔡，蔡必來，楚因擊之，可以有功．」楚文王從之，虜蔡哀侯以</line>
+<line xml:id='KX2a0001_ZHSJ_35-1566a.12'>歸．哀侯留九歲，死於楚．凡立二十年卒．蔡人立其子肸，是為繆侯．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1566a.13'>〔一〕　集解杜預曰：「息國，汝南新息縣．」</line>
+<line xml:id='KX2a0001_ZHSJ_35-1566a.14'>　　繆侯以其女弟為齊桓公夫人．十八年，齊桓公與蔡女戲船中，夫人蕩舟，桓公止之，不</line>
 </surface>
-<surface xml:id='SHIJI_ZHSJ_35-1567a-z'>
-<pb ed='ZHSJ' n='35-1567a' xml:id='SHIJI_ZHSJ_35-1567a'/><line xml:id='SHIJI_ZHSJ_35-1567a.01'>止，公怒，歸蔡女而不絕也．蔡侯怒，嫁其弟．〔一〕齊桓公怒，伐蔡；蔡潰，遂虜繆侯，南至楚</line>
-<line xml:id='SHIJI_ZHSJ_35-1567a.02'>邵陵．已而諸侯為蔡謝齊，齊侯歸蔡侯．二十九年，繆侯卒，子莊侯甲午立．</line>
-<line xml:id='SHIJI_ZHSJ_35-1567a.03'>〔一〕　索隱弟，女弟，即蕩舟之姬．</line>
-<line xml:id='SHIJI_ZHSJ_35-1567a.04'>　　莊侯三年，齊桓公卒．十四年，晉文公敗楚於城濮．二十年，楚太子商臣弒其父成王</line>
-<line xml:id='SHIJI_ZHSJ_35-1567a.05'>代立．二十五年，秦穆公卒．三十三年，楚莊王即位．三十四年，莊侯卒，子文侯申立．</line>
-<line xml:id='SHIJI_ZHSJ_35-1567a.06'>　　文侯十四年，楚莊王伐陳，殺夏徵舒．十五年，楚圍鄭，鄭降楚，楚復醳之．〔一〕二十年，</line>
-<line xml:id='SHIJI_ZHSJ_35-1567a.07'>文侯卒，子景侯固立．</line>
-<line xml:id='SHIJI_ZHSJ_35-1567a.08'>〔一〕　正義醳音釋．</line>
-<line xml:id='SHIJI_ZHSJ_35-1567a.09'>　　景侯元年，楚莊王卒．四十九年，景侯為太子般娶婦於楚，而景侯通焉．太子弒景侯</line>
-<line xml:id='SHIJI_ZHSJ_35-1567a.10'>而自立，是為靈侯．</line>
-<line xml:id='SHIJI_ZHSJ_35-1567a.11'>　　靈侯二年，楚公子圍弒其王郟敖而自立，為靈王．〔一〕九年，陳司徒招〔二〕弒其君哀公．</line>
-<line xml:id='SHIJI_ZHSJ_35-1567a.12'>楚使公子[⿱𠫓廾]疾滅陳而有之．十二年，楚靈王以靈侯弒其父，誘蔡靈侯于申，〔三〕伏甲飲之，</line>
-<line xml:id='SHIJI_ZHSJ_35-1567a.13'>醉而殺之，刑其士卒七十人．令公子[⿱𠫓廾]疾圍蔡．十一月，滅蔡，使[⿱𠫓廾]疾為蔡公．〔四〕</line>
-<line xml:id='SHIJI_ZHSJ_35-1567a.14'>〔一〕　正義郟，紀洽反．敖，五高反．</line>
-<line xml:id='SHIJI_ZHSJ_35-1567a.15'>〔二〕　索隱或作「昭」，或作「韶」，並時遙反．</line>
+<surface xml:id='KX2a0001_ZHSJ_35-1567a-z'>
+<pb ed='ZHSJ' n='35-1567a' xml:id='KX2a0001_ZHSJ_35-1567a'/><line xml:id='KX2a0001_ZHSJ_35-1567a.01'>止，公怒，歸蔡女而不絕也．蔡侯怒，嫁其弟．〔一〕齊桓公怒，伐蔡；蔡潰，遂虜繆侯，南至楚</line>
+<line xml:id='KX2a0001_ZHSJ_35-1567a.02'>邵陵．已而諸侯為蔡謝齊，齊侯歸蔡侯．二十九年，繆侯卒，子莊侯甲午立．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1567a.03'>〔一〕　索隱弟，女弟，即蕩舟之姬．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1567a.04'>　　莊侯三年，齊桓公卒．十四年，晉文公敗楚於城濮．二十年，楚太子商臣弒其父成王</line>
+<line xml:id='KX2a0001_ZHSJ_35-1567a.05'>代立．二十五年，秦穆公卒．三十三年，楚莊王即位．三十四年，莊侯卒，子文侯申立．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1567a.06'>　　文侯十四年，楚莊王伐陳，殺夏徵舒．十五年，楚圍鄭，鄭降楚，楚復醳之．〔一〕二十年，</line>
+<line xml:id='KX2a0001_ZHSJ_35-1567a.07'>文侯卒，子景侯固立．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1567a.08'>〔一〕　正義醳音釋．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1567a.09'>　　景侯元年，楚莊王卒．四十九年，景侯為太子般娶婦於楚，而景侯通焉．太子弒景侯</line>
+<line xml:id='KX2a0001_ZHSJ_35-1567a.10'>而自立，是為靈侯．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1567a.11'>　　靈侯二年，楚公子圍弒其王郟敖而自立，為靈王．〔一〕九年，陳司徒招〔二〕弒其君哀公．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1567a.12'>楚使公子[⿱𠫓廾]疾滅陳而有之．十二年，楚靈王以靈侯弒其父，誘蔡靈侯于申，〔三〕伏甲飲之，</line>
+<line xml:id='KX2a0001_ZHSJ_35-1567a.13'>醉而殺之，刑其士卒七十人．令公子[⿱𠫓廾]疾圍蔡．十一月，滅蔡，使[⿱𠫓廾]疾為蔡公．〔四〕</line>
+<line xml:id='KX2a0001_ZHSJ_35-1567a.14'>〔一〕　正義郟，紀洽反．敖，五高反．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1567a.15'>〔二〕　索隱或作「昭」，或作「韶」，並時遙反．</line>
 </surface>
-<surface xml:id='SHIJI_ZHSJ_35-1568a-z'>
-<pb ed='ZHSJ' n='35-1568a' xml:id='SHIJI_ZHSJ_35-1568a'/><line xml:id='SHIJI_ZHSJ_35-1568a.01'>〔三〕　正義故申城在鄧州．</line>
-<line xml:id='SHIJI_ZHSJ_35-1568a.02'>〔四〕　正義蔡之大夫也．</line>
-<line xml:id='SHIJI_ZHSJ_35-1568a.03'>　　楚滅蔡三歲，楚公子[⿱𠫓廾]疾弒其君靈王代立，為平王．平王乃求蔡景侯少子廬，立之，是</line>
-<line xml:id='SHIJI_ZHSJ_35-1568a.04'>為平侯．〔一〕是年，楚亦復立陳．楚平王初立，欲親諸侯，故復立陳､蔡後．〔二〕</line>
-<line xml:id='SHIJI_ZHSJ_35-1568a.05'>〔一〕　集解宋忠曰：「平侯徙下蔡．」　索隱今系本無者，近脫耳．</line>
-<line xml:id='SHIJI_ZHSJ_35-1568a.06'>〔二〕　集解世本曰：「平侯者，靈侯般之孫，太子友之子．」</line>
-<line xml:id='SHIJI_ZHSJ_35-1568a.07'>　　平侯九年卒，靈侯般之孫東國攻平侯子而自立，是為悼侯．悼侯父曰隱太子友．隱太</line>
-<line xml:id='SHIJI_ZHSJ_35-1568a.08'>子友者，靈侯之太子，平侯立而殺隱太子，故平侯卒而隱太子之子東國攻平侯子而代立，是</line>
-<line xml:id='SHIJI_ZHSJ_35-1568a.09'>為悼侯．悼侯三年卒，弟昭侯申立．</line>
-<line xml:id='SHIJI_ZHSJ_35-1568a.10'>　　昭侯十年，朝楚昭王，持美裘二，獻其一於昭王而自衣其一．楚相子常欲之，不與．</line>
-<line xml:id='SHIJI_ZHSJ_35-1568a.11'>子常讒蔡侯，留之楚三年．蔡侯知之，乃獻其裘於子常；子常受之，乃言歸蔡侯．蔡侯歸</line>
-<line xml:id='SHIJI_ZHSJ_35-1568a.12'>而之晉，請與晉伐楚．</line>
-<line xml:id='SHIJI_ZHSJ_35-1568a.13'>　　十三年春，與衞靈公會邵陵．蔡侯私於周萇弘以求長於衞；〔一〕衞使史鰌言康叔之功</line>
-<line xml:id='SHIJI_ZHSJ_35-1568a.14'>德，乃長衞．夏，為晉滅沈，〔二〕楚怒，攻蔡．蔡昭侯使其子為質於吳，〔三〕以共伐楚．冬，與</line>
+<surface xml:id='KX2a0001_ZHSJ_35-1568a-z'>
+<pb ed='ZHSJ' n='35-1568a' xml:id='KX2a0001_ZHSJ_35-1568a'/><line xml:id='KX2a0001_ZHSJ_35-1568a.01'>〔三〕　正義故申城在鄧州．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1568a.02'>〔四〕　正義蔡之大夫也．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1568a.03'>　　楚滅蔡三歲，楚公子[⿱𠫓廾]疾弒其君靈王代立，為平王．平王乃求蔡景侯少子廬，立之，是</line>
+<line xml:id='KX2a0001_ZHSJ_35-1568a.04'>為平侯．〔一〕是年，楚亦復立陳．楚平王初立，欲親諸侯，故復立陳､蔡後．〔二〕</line>
+<line xml:id='KX2a0001_ZHSJ_35-1568a.05'>〔一〕　集解宋忠曰：「平侯徙下蔡．」　索隱今系本無者，近脫耳．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1568a.06'>〔二〕　集解世本曰：「平侯者，靈侯般之孫，太子友之子．」</line>
+<line xml:id='KX2a0001_ZHSJ_35-1568a.07'>　　平侯九年卒，靈侯般之孫東國攻平侯子而自立，是為悼侯．悼侯父曰隱太子友．隱太</line>
+<line xml:id='KX2a0001_ZHSJ_35-1568a.08'>子友者，靈侯之太子，平侯立而殺隱太子，故平侯卒而隱太子之子東國攻平侯子而代立，是</line>
+<line xml:id='KX2a0001_ZHSJ_35-1568a.09'>為悼侯．悼侯三年卒，弟昭侯申立．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1568a.10'>　　昭侯十年，朝楚昭王，持美裘二，獻其一於昭王而自衣其一．楚相子常欲之，不與．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1568a.11'>子常讒蔡侯，留之楚三年．蔡侯知之，乃獻其裘於子常；子常受之，乃言歸蔡侯．蔡侯歸</line>
+<line xml:id='KX2a0001_ZHSJ_35-1568a.12'>而之晉，請與晉伐楚．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1568a.13'>　　十三年春，與衞靈公會邵陵．蔡侯私於周萇弘以求長於衞；〔一〕衞使史鰌言康叔之功</line>
+<line xml:id='KX2a0001_ZHSJ_35-1568a.14'>德，乃長衞．夏，為晉滅沈，〔二〕楚怒，攻蔡．蔡昭侯使其子為質於吳，〔三〕以共伐楚．冬，與</line>
 </surface>
-<surface xml:id='SHIJI_ZHSJ_35-1569a-z'>
-<pb ed='ZHSJ' n='35-1569a' xml:id='SHIJI_ZHSJ_35-1569a'/><line xml:id='SHIJI_ZHSJ_35-1569a.01'>吳王闔閭遂破楚入郢．蔡怨子常，子常恐，奔鄭．十四年，吳去而楚昭王復國．十六年，楚</line>
-<line xml:id='SHIJI_ZHSJ_35-1569a.02'>令尹為其民泣以謀蔡，蔡昭侯懼．二十六年，孔子如蔡．楚昭王伐蔡，蔡恐，告急於吳．吳</line>
-<line xml:id='SHIJI_ZHSJ_35-1569a.03'>為蔡遠，約遷以自近，易以相救；昭侯私許，不與大夫計．吳人來救蔡，因遷蔡于州來．〔四〕</line>
-<line xml:id='SHIJI_ZHSJ_35-1569a.04'>二十八年，昭侯將朝于吳，大夫恐其復遷，乃令賊利殺昭侯；〔五〕已而誅賊利以解過，而立</line>
-<line xml:id='SHIJI_ZHSJ_35-1569a.05'>昭侯子朔，是為成侯．〔六〕</line>
-<line xml:id='SHIJI_ZHSJ_35-1569a.06'>〔一〕　集解服虔曰：「載書使蔡在衞上．」</line>
-<line xml:id='SHIJI_ZHSJ_35-1569a.07'>〔二〕　集解杜預曰：「汝南平輿縣北有邥亭．」</line>
-<line xml:id='SHIJI_ZHSJ_35-1569a.08'>〔三〕　正義質音致．</line>
-<line xml:id='SHIJI_ZHSJ_35-1569a.09'>〔四〕　索隱州來在淮南下蔡縣．</line>
-<line xml:id='SHIJI_ZHSJ_35-1569a.10'>〔五〕　索隱案：利，賊名也．</line>
-<line xml:id='SHIJI_ZHSJ_35-1569a.11'>〔六〕　集解徐廣曰：「或作『景』．」</line>
-<line xml:id='SHIJI_ZHSJ_35-1569a.12'>　　成侯四年，宋滅曹．十年，齊田常弒其君簡公．十三年，楚滅陳．十九年，成侯卒，子</line>
-<line xml:id='SHIJI_ZHSJ_35-1569a.13'>聲侯產立．聲侯十五年卒，子元侯立．元侯六年卒，子侯齊立．</line>
-<line xml:id='SHIJI_ZHSJ_35-1569a.14'>　　侯齊四年，楚惠王滅蔡，蔡侯齊亡，蔡遂絕祀．後陳滅三十三年．〔一〕</line>
-<line xml:id='SHIJI_ZHSJ_35-1569a.15'>〔一〕　索隱魯哀十七年楚滅陳，其楚滅蔡絕其祀，又在滅陳之後三十三年，即在春秋後二十三年．</line>
+<surface xml:id='KX2a0001_ZHSJ_35-1569a-z'>
+<pb ed='ZHSJ' n='35-1569a' xml:id='KX2a0001_ZHSJ_35-1569a'/><line xml:id='KX2a0001_ZHSJ_35-1569a.01'>吳王闔閭遂破楚入郢．蔡怨子常，子常恐，奔鄭．十四年，吳去而楚昭王復國．十六年，楚</line>
+<line xml:id='KX2a0001_ZHSJ_35-1569a.02'>令尹為其民泣以謀蔡，蔡昭侯懼．二十六年，孔子如蔡．楚昭王伐蔡，蔡恐，告急於吳．吳</line>
+<line xml:id='KX2a0001_ZHSJ_35-1569a.03'>為蔡遠，約遷以自近，易以相救；昭侯私許，不與大夫計．吳人來救蔡，因遷蔡于州來．〔四〕</line>
+<line xml:id='KX2a0001_ZHSJ_35-1569a.04'>二十八年，昭侯將朝于吳，大夫恐其復遷，乃令賊利殺昭侯；〔五〕已而誅賊利以解過，而立</line>
+<line xml:id='KX2a0001_ZHSJ_35-1569a.05'>昭侯子朔，是為成侯．〔六〕</line>
+<line xml:id='KX2a0001_ZHSJ_35-1569a.06'>〔一〕　集解服虔曰：「載書使蔡在衞上．」</line>
+<line xml:id='KX2a0001_ZHSJ_35-1569a.07'>〔二〕　集解杜預曰：「汝南平輿縣北有邥亭．」</line>
+<line xml:id='KX2a0001_ZHSJ_35-1569a.08'>〔三〕　正義質音致．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1569a.09'>〔四〕　索隱州來在淮南下蔡縣．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1569a.10'>〔五〕　索隱案：利，賊名也．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1569a.11'>〔六〕　集解徐廣曰：「或作『景』．」</line>
+<line xml:id='KX2a0001_ZHSJ_35-1569a.12'>　　成侯四年，宋滅曹．十年，齊田常弒其君簡公．十三年，楚滅陳．十九年，成侯卒，子</line>
+<line xml:id='KX2a0001_ZHSJ_35-1569a.13'>聲侯產立．聲侯十五年卒，子元侯立．元侯六年卒，子侯齊立．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1569a.14'>　　侯齊四年，楚惠王滅蔡，蔡侯齊亡，蔡遂絕祀．後陳滅三十三年．〔一〕</line>
+<line xml:id='KX2a0001_ZHSJ_35-1569a.15'>〔一〕　索隱魯哀十七年楚滅陳，其楚滅蔡絕其祀，又在滅陳之後三十三年，即在春秋後二十三年．</line>
 </surface>
-<surface xml:id='SHIJI_ZHSJ_35-1570a-z'>
-<pb ed='ZHSJ' n='35-1570a' xml:id='SHIJI_ZHSJ_35-1570a'/><line xml:id='SHIJI_ZHSJ_35-1570a.02'>　　伯邑考，其後不知所封．武王發，其後為周，有本紀言．管叔鮮作亂誅死，無後．周公</line>
-<line xml:id='SHIJI_ZHSJ_35-1570a.03'>旦，其後為魯，有世家言．蔡叔度，其後為蔡，有世家言．曹叔振鐸，有後為曹，有世家言．</line>
-<line xml:id='SHIJI_ZHSJ_35-1570a.04'>成叔武，其後世無所見．霍叔處，其後晉獻公時滅霍．康叔封，其後為衞，有世家言．季</line>
-<line xml:id='SHIJI_ZHSJ_35-1570a.05'>載，其後世無所見．</line>
-<line xml:id='SHIJI_ZHSJ_35-1570a.06'>　　太史公曰：管蔡作亂，無足載者．然周武王崩，成王少，天下既疑，賴同母之弟成叔､</line>
-<line xml:id='SHIJI_ZHSJ_35-1570a.07'>季之屬十人為輔拂，是以諸侯卒宗周，故附之世家言．</line>
-<line xml:id='SHIJI_ZHSJ_35-1570a.08'>　　曹叔振鐸者，〔一〕周武王弟也．武王已克殷紂，封叔振鐸於曹．〔二〕</line>
-<line xml:id='SHIJI_ZHSJ_35-1570a.09'>〔一〕　索隱按：上文「叔振鐸，其後為曹，有系家言」，則曹亦合題系家，今附管蔡之末而不出題者，蓋以曹微小而少</line>
-<line xml:id='SHIJI_ZHSJ_35-1570a.10'>　　　　事迹，因附管蔡之末，不別題篇爾．且又管叔雖無後，仍是蔡､曹之兄，故題管､蔡而略曹也．</line>
-<line xml:id='SHIJI_ZHSJ_35-1570a.11'>〔二〕　集解宋忠曰濟陰定陶縣．</line>
-<line xml:id='SHIJI_ZHSJ_35-1570a.12'>　　叔振鐸卒，子太伯脾立．太伯卒，子仲君平立．仲君平卒，子宮伯侯立．宮伯侯卒，子</line>
-<line xml:id='SHIJI_ZHSJ_35-1570a.13'>孝伯雲立．孝伯雲卒，子夷伯喜立．</line>
+<surface xml:id='KX2a0001_ZHSJ_35-1570a-z'>
+<pb ed='ZHSJ' n='35-1570a' xml:id='KX2a0001_ZHSJ_35-1570a'/><line xml:id='KX2a0001_ZHSJ_35-1570a.02'>　　伯邑考，其後不知所封．武王發，其後為周，有本紀言．管叔鮮作亂誅死，無後．周公</line>
+<line xml:id='KX2a0001_ZHSJ_35-1570a.03'>旦，其後為魯，有世家言．蔡叔度，其後為蔡，有世家言．曹叔振鐸，有後為曹，有世家言．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1570a.04'>成叔武，其後世無所見．霍叔處，其後晉獻公時滅霍．康叔封，其後為衞，有世家言．季</line>
+<line xml:id='KX2a0001_ZHSJ_35-1570a.05'>載，其後世無所見．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1570a.06'>　　太史公曰：管蔡作亂，無足載者．然周武王崩，成王少，天下既疑，賴同母之弟成叔､</line>
+<line xml:id='KX2a0001_ZHSJ_35-1570a.07'>季之屬十人為輔拂，是以諸侯卒宗周，故附之世家言．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1570a.08'>　　曹叔振鐸者，〔一〕周武王弟也．武王已克殷紂，封叔振鐸於曹．〔二〕</line>
+<line xml:id='KX2a0001_ZHSJ_35-1570a.09'>〔一〕　索隱按：上文「叔振鐸，其後為曹，有系家言」，則曹亦合題系家，今附管蔡之末而不出題者，蓋以曹微小而少</line>
+<line xml:id='KX2a0001_ZHSJ_35-1570a.10'>　　　　事迹，因附管蔡之末，不別題篇爾．且又管叔雖無後，仍是蔡､曹之兄，故題管､蔡而略曹也．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1570a.11'>〔二〕　集解宋忠曰濟陰定陶縣．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1570a.12'>　　叔振鐸卒，子太伯脾立．太伯卒，子仲君平立．仲君平卒，子宮伯侯立．宮伯侯卒，子</line>
+<line xml:id='KX2a0001_ZHSJ_35-1570a.13'>孝伯雲立．孝伯雲卒，子夷伯喜立．</line>
 </surface>
-<surface xml:id='SHIJI_ZHSJ_35-1571a-z'>
-<pb ed='ZHSJ' n='35-1571a' xml:id='SHIJI_ZHSJ_35-1571a'/><line xml:id='SHIJI_ZHSJ_35-1571a.01'>　　夷伯二十三年，周厲王奔于彘．</line>
-<line xml:id='SHIJI_ZHSJ_35-1571a.02'>　　三十年卒，弟幽伯彊立．幽伯九年，弟蘇殺幽伯代立，是為戴伯．戴伯元年，周宣王已</line>
-<line xml:id='SHIJI_ZHSJ_35-1571a.03'>立三歲．三十年，戴伯卒，子惠伯兕立．〔一〕</line>
-<line xml:id='SHIJI_ZHSJ_35-1571a.04'>〔一〕　集解孫檢曰：「兕音徐子反．曹惠伯或名雉，或名弟，或復名弟兕也．」　索隱按：年表作「惠公伯雉」，注引</line>
-<line xml:id='SHIJI_ZHSJ_35-1571a.05'>　　　　孫檢，未詳何代，或云齊人，亦恐其人不注史記．今以王儉七志､阮孝緒七錄並無，又不知是裴駰所錄否？</line>
-<line xml:id='SHIJI_ZHSJ_35-1571a.06'>　　惠伯二十五年，周幽王為犬戎所殺，因東徙，益卑，諸侯畔之．秦始列為諸侯．</line>
-<line xml:id='SHIJI_ZHSJ_35-1571a.07'>　　三十六，惠伯卒，子石甫立，其弟武殺之代立，是為繆公．繆公三年卒，子桓公終生</line>
-<line xml:id='SHIJI_ZHSJ_35-1571a.08'>立．〔一〕</line>
-<line xml:id='SHIJI_ZHSJ_35-1571a.09'>〔一〕　集解孫檢云：「一作『終湦』．湦音生．」</line>
-<line xml:id='SHIJI_ZHSJ_35-1571a.10'>　　桓公三十五年，魯隱公立．四十五年，魯弒其君隱公．四十六年，宋華父督弒其君殤</line>
-<line xml:id='SHIJI_ZHSJ_35-1571a.11'>公，及孔父．五十五年，桓公卒，子莊公夕姑〔一〕立．</line>
-<line xml:id='SHIJI_ZHSJ_35-1571a.12'>〔一〕　索隱上音亦．即射姑也，同音亦．</line>
-<line xml:id='SHIJI_ZHSJ_35-1571a.13'>　　莊公二十三年，齊桓公始霸．</line>
-<line xml:id='SHIJI_ZHSJ_35-1571a.14'>　　三十一年，莊公卒，子釐公夷立．釐公九年卒，子昭公班立．昭公六年，齊桓公敗蔡，</line>
+<surface xml:id='KX2a0001_ZHSJ_35-1571a-z'>
+<pb ed='ZHSJ' n='35-1571a' xml:id='KX2a0001_ZHSJ_35-1571a'/><line xml:id='KX2a0001_ZHSJ_35-1571a.01'>　　夷伯二十三年，周厲王奔于彘．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1571a.02'>　　三十年卒，弟幽伯彊立．幽伯九年，弟蘇殺幽伯代立，是為戴伯．戴伯元年，周宣王已</line>
+<line xml:id='KX2a0001_ZHSJ_35-1571a.03'>立三歲．三十年，戴伯卒，子惠伯兕立．〔一〕</line>
+<line xml:id='KX2a0001_ZHSJ_35-1571a.04'>〔一〕　集解孫檢曰：「兕音徐子反．曹惠伯或名雉，或名弟，或復名弟兕也．」　索隱按：年表作「惠公伯雉」，注引</line>
+<line xml:id='KX2a0001_ZHSJ_35-1571a.05'>　　　　孫檢，未詳何代，或云齊人，亦恐其人不注史記．今以王儉七志､阮孝緒七錄並無，又不知是裴駰所錄否？</line>
+<line xml:id='KX2a0001_ZHSJ_35-1571a.06'>　　惠伯二十五年，周幽王為犬戎所殺，因東徙，益卑，諸侯畔之．秦始列為諸侯．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1571a.07'>　　三十六，惠伯卒，子石甫立，其弟武殺之代立，是為繆公．繆公三年卒，子桓公終生</line>
+<line xml:id='KX2a0001_ZHSJ_35-1571a.08'>立．〔一〕</line>
+<line xml:id='KX2a0001_ZHSJ_35-1571a.09'>〔一〕　集解孫檢云：「一作『終湦』．湦音生．」</line>
+<line xml:id='KX2a0001_ZHSJ_35-1571a.10'>　　桓公三十五年，魯隱公立．四十五年，魯弒其君隱公．四十六年，宋華父督弒其君殤</line>
+<line xml:id='KX2a0001_ZHSJ_35-1571a.11'>公，及孔父．五十五年，桓公卒，子莊公夕姑〔一〕立．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1571a.12'>〔一〕　索隱上音亦．即射姑也，同音亦．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1571a.13'>　　莊公二十三年，齊桓公始霸．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1571a.14'>　　三十一年，莊公卒，子釐公夷立．釐公九年卒，子昭公班立．昭公六年，齊桓公敗蔡，</line>
 </surface>
-<surface xml:id='SHIJI_ZHSJ_35-1572a-z'>
-<pb ed='ZHSJ' n='35-1572a' xml:id='SHIJI_ZHSJ_35-1572a'/><line xml:id='SHIJI_ZHSJ_35-1572a.01'>遂至楚召陵．九年，昭公卒，子共公襄立．</line>
-<line xml:id='SHIJI_ZHSJ_35-1572a.02'>　　共公十六年，初，晉公子重耳其亡過曹，曹君無禮，欲觀其駢脅．〔一〕釐負羈〔二〕諫，不</line>
-<line xml:id='SHIJI_ZHSJ_35-1572a.03'>聽，私善於重耳．二十一年，晉文公重耳伐曹，虜共公以歸，令軍毋入釐負羈之宗族閭．或</line>
-<line xml:id='SHIJI_ZHSJ_35-1572a.04'>說晉文公曰：「昔齊桓公會諸侯，復異姓；今君囚曹君，滅同姓，何以令於諸侯？」晉乃復</line>
-<line xml:id='SHIJI_ZHSJ_35-1572a.05'>歸共公．</line>
-<line xml:id='SHIJI_ZHSJ_35-1572a.06'>〔一〕　集解韋昭曰：「駢者，并幹也．」　正義駢，白邊反．脅，許業反．</line>
-<line xml:id='SHIJI_ZHSJ_35-1572a.07'>〔二〕　正義釐音僖，曹大夫．</line>
-<line xml:id='SHIJI_ZHSJ_35-1572a.08'>　　二十五年，晉文公卒．三十五年，共公卒，子文公壽立．文公二十三年卒，子宣公彊</line>
-<line xml:id='SHIJI_ZHSJ_35-1572a.09'>立．〔一〕宣公十七年卒，弟成公負芻立．</line>
-<line xml:id='SHIJI_ZHSJ_35-1572a.10'>〔一〕　索隱按左傳，宣公名廬．</line>
-<line xml:id='SHIJI_ZHSJ_35-1572a.11'>　　成公三年，晉厲公伐曹，虜成公以歸，已復釋之．〔一〕五年，晉欒書､中行偃使程滑弒其</line>
-<line xml:id='SHIJI_ZHSJ_35-1572a.12'>君厲公．二十三年，成公卒，子武公勝立．武公二十六年，楚公子[⿱𠫓廾]疾弒其君靈王代立．</line>
-<line xml:id='SHIJI_ZHSJ_35-1572a.13'>二十七年，武公卒，子平公（<note>頃</note>）【須】立．平公四年卒，子悼公午立．是歲，宋､衞､陳､鄭皆</line>
-<line xml:id='SHIJI_ZHSJ_35-1572a.14'>火．</line>
-<line xml:id='SHIJI_ZHSJ_35-1572a.15'>〔一〕　索隱按：左傳成十五年，晉厲公執負芻，歸于京師．晉立宣公弟子臧，子臧曰「聖達節，次守節，下失節．為君</line>
+<surface xml:id='KX2a0001_ZHSJ_35-1572a-z'>
+<pb ed='ZHSJ' n='35-1572a' xml:id='KX2a0001_ZHSJ_35-1572a'/><line xml:id='KX2a0001_ZHSJ_35-1572a.01'>遂至楚召陵．九年，昭公卒，子共公襄立．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1572a.02'>　　共公十六年，初，晉公子重耳其亡過曹，曹君無禮，欲觀其駢脅．〔一〕釐負羈〔二〕諫，不</line>
+<line xml:id='KX2a0001_ZHSJ_35-1572a.03'>聽，私善於重耳．二十一年，晉文公重耳伐曹，虜共公以歸，令軍毋入釐負羈之宗族閭．或</line>
+<line xml:id='KX2a0001_ZHSJ_35-1572a.04'>說晉文公曰：「昔齊桓公會諸侯，復異姓；今君囚曹君，滅同姓，何以令於諸侯？」晉乃復</line>
+<line xml:id='KX2a0001_ZHSJ_35-1572a.05'>歸共公．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1572a.06'>〔一〕　集解韋昭曰：「駢者，并幹也．」　正義駢，白邊反．脅，許業反．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1572a.07'>〔二〕　正義釐音僖，曹大夫．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1572a.08'>　　二十五年，晉文公卒．三十五年，共公卒，子文公壽立．文公二十三年卒，子宣公彊</line>
+<line xml:id='KX2a0001_ZHSJ_35-1572a.09'>立．〔一〕宣公十七年卒，弟成公負芻立．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1572a.10'>〔一〕　索隱按左傳，宣公名廬．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1572a.11'>　　成公三年，晉厲公伐曹，虜成公以歸，已復釋之．〔一〕五年，晉欒書､中行偃使程滑弒其</line>
+<line xml:id='KX2a0001_ZHSJ_35-1572a.12'>君厲公．二十三年，成公卒，子武公勝立．武公二十六年，楚公子[⿱𠫓廾]疾弒其君靈王代立．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1572a.13'>二十七年，武公卒，子平公（<note>頃</note>）【須】立．平公四年卒，子悼公午立．是歲，宋､衞､陳､鄭皆</line>
+<line xml:id='KX2a0001_ZHSJ_35-1572a.14'>火．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1572a.15'>〔一〕　索隱按：左傳成十五年，晉厲公執負芻，歸于京師．晉立宣公弟子臧，子臧曰「聖達節，次守節，下失節．為君</line>
 </surface>
-<surface xml:id='SHIJI_ZHSJ_35-1573a-z'>
-<pb ed='ZHSJ' n='35-1573a' xml:id='SHIJI_ZHSJ_35-1573a'/><line xml:id='SHIJI_ZHSJ_35-1573a.01'>　　　　非吾節也」．遂逃奔宋．曹人請于晉．晉人謂子臧「反國，吾歸而君」．子臧反，晉於是歸負芻．</line>
-<line xml:id='SHIJI_ZHSJ_35-1573a.02'>　　悼公八年，宋景公立．九年，悼公朝于宋，宋囚之；曹立其弟野，是為聲公．悼公死於</line>
-<line xml:id='SHIJI_ZHSJ_35-1573a.03'>宋，歸葬．</line>
-<line xml:id='SHIJI_ZHSJ_35-1573a.04'>　　聲公五年，平公弟通弒聲公代立，是為隱公．〔一〕隱公四年，聲公弟露弒隱公代立，是為</line>
-<line xml:id='SHIJI_ZHSJ_35-1573a.05'>靖公．靖公四年卒，子伯陽立．</line>
-<line xml:id='SHIJI_ZHSJ_35-1573a.06'>〔一〕　索隱按：譙周云春秋無其事．今檢系本及春秋，悼伯卒，弟露立，謚靖公，實無聲公､隱公，蓋是彼文自疏</line>
-<line xml:id='SHIJI_ZHSJ_35-1573a.07'>　　　　也．</line>
-<line xml:id='SHIJI_ZHSJ_35-1573a.08'>　　伯陽三年，國人有夢衆君子立于社宮，〔一〕謀欲亡曹；曹叔振鐸止之，請待公孫彊，許</line>
-<line xml:id='SHIJI_ZHSJ_35-1573a.09'>之．旦，求之曹，無此人．夢者戒其子曰：「我亡，爾聞公孫彊為政，必去曹，無離曹禍．」〔二〕</line>
-<line xml:id='SHIJI_ZHSJ_35-1573a.10'>及伯陽即位，好田弋之事．六年，曹野人公孫彊亦好田弋，獲白鴈而獻之，且言田弋之說，</line>
-<line xml:id='SHIJI_ZHSJ_35-1573a.11'>因訪政事．伯陽大說之，有寵，使為司城以聽政．夢者之子乃亡去．</line>
-<line xml:id='SHIJI_ZHSJ_35-1573a.12'>〔一〕　集解賈逵曰：「社宮，社也．」鄭衆曰：「社宮，中有室屋者．」</line>
-<line xml:id='SHIJI_ZHSJ_35-1573a.13'>〔二〕　索隱離即罹．罹，被也．</line>
-<line xml:id='SHIJI_ZHSJ_35-1573a.14'>　　公孫彊言霸說於曹伯．十四年，曹伯從之，乃背晉干宋．〔一〕宋景公伐之，晉人不救．</line>
-<line xml:id='SHIJI_ZHSJ_35-1573a.15'>十五年，宋滅曹，執曹伯陽及公孫彊以歸而殺之．曹遂絕其祀．</line>
+<surface xml:id='KX2a0001_ZHSJ_35-1573a-z'>
+<pb ed='ZHSJ' n='35-1573a' xml:id='KX2a0001_ZHSJ_35-1573a'/><line xml:id='KX2a0001_ZHSJ_35-1573a.01'>　　　　非吾節也」．遂逃奔宋．曹人請于晉．晉人謂子臧「反國，吾歸而君」．子臧反，晉於是歸負芻．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1573a.02'>　　悼公八年，宋景公立．九年，悼公朝于宋，宋囚之；曹立其弟野，是為聲公．悼公死於</line>
+<line xml:id='KX2a0001_ZHSJ_35-1573a.03'>宋，歸葬．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1573a.04'>　　聲公五年，平公弟通弒聲公代立，是為隱公．〔一〕隱公四年，聲公弟露弒隱公代立，是為</line>
+<line xml:id='KX2a0001_ZHSJ_35-1573a.05'>靖公．靖公四年卒，子伯陽立．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1573a.06'>〔一〕　索隱按：譙周云春秋無其事．今檢系本及春秋，悼伯卒，弟露立，謚靖公，實無聲公､隱公，蓋是彼文自疏</line>
+<line xml:id='KX2a0001_ZHSJ_35-1573a.07'>　　　　也．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1573a.08'>　　伯陽三年，國人有夢衆君子立于社宮，〔一〕謀欲亡曹；曹叔振鐸止之，請待公孫彊，許</line>
+<line xml:id='KX2a0001_ZHSJ_35-1573a.09'>之．旦，求之曹，無此人．夢者戒其子曰：「我亡，爾聞公孫彊為政，必去曹，無離曹禍．」〔二〕</line>
+<line xml:id='KX2a0001_ZHSJ_35-1573a.10'>及伯陽即位，好田弋之事．六年，曹野人公孫彊亦好田弋，獲白鴈而獻之，且言田弋之說，</line>
+<line xml:id='KX2a0001_ZHSJ_35-1573a.11'>因訪政事．伯陽大說之，有寵，使為司城以聽政．夢者之子乃亡去．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1573a.12'>〔一〕　集解賈逵曰：「社宮，社也．」鄭衆曰：「社宮，中有室屋者．」</line>
+<line xml:id='KX2a0001_ZHSJ_35-1573a.13'>〔二〕　索隱離即罹．罹，被也．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1573a.14'>　　公孫彊言霸說於曹伯．十四年，曹伯從之，乃背晉干宋．〔一〕宋景公伐之，晉人不救．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1573a.15'>十五年，宋滅曹，執曹伯陽及公孫彊以歸而殺之．曹遂絕其祀．</line>
 </surface>
-<surface xml:id='SHIJI_ZHSJ_35-1574a-z'>
-<pb ed='ZHSJ' n='35-1574a' xml:id='SHIJI_ZHSJ_35-1574a'/><line xml:id='SHIJI_ZHSJ_35-1574a.01'>〔一〕　集解賈逵曰：「以小加大．」　索隱干謂犯也．言曹因[⿱𠫓廾]晉而犯宋，遂致滅也．裴氏引賈逵注云「以小加大」</line>
-<line xml:id='SHIJI_ZHSJ_35-1574a.02'>　　　　者，加，陵也，小即曹也，大謂晉及宋也．</line>
-<line xml:id='SHIJI_ZHSJ_35-1574a.03'>　　太史公曰：〔一〕余尋曹共公之不用僖負羈，乃乘軒者三百人，〔二〕知唯德之不建．及振</line>
-<line xml:id='SHIJI_ZHSJ_35-1574a.04'>鐸之夢，豈不欲引曹之祀者哉？如公孫彊不脩厥政，叔鐸之祀忽諸．〔三〕</line>
-<line xml:id='SHIJI_ZHSJ_35-1574a.05'>〔一〕　索隱檢諸本或無此論．</line>
-<line xml:id='SHIJI_ZHSJ_35-1574a.06'>〔二〕　正義晉世家云：「晉師入曹，數之，以其不用僖負羈言，而美女乘軒三百人也．」</line>
-<line xml:id='SHIJI_ZHSJ_35-1574a.07'>〔三〕　正義至如公孫彊不脩霸道之政，而伯陽之子立，叔鐸猶尚饗祭祀，豈合忽絕之哉．</line>
-<line xml:id='SHIJI_ZHSJ_35-1574a.08'>【索隱述贊】武王之弟，管､蔡及霍．周公居相，流言是作．狼跋致艱，鴟鴞討惡．胡能改行，克復其</line>
-<line xml:id='SHIJI_ZHSJ_35-1574a.09'>爵．獻舞執楚，遇息禮薄．穆侯虜齊，蕩舟乖謔．曹共輕晉，負羈先覺．伯陽夢社，祚傾振鐸．</line>
+<surface xml:id='KX2a0001_ZHSJ_35-1574a-z'>
+<pb ed='ZHSJ' n='35-1574a' xml:id='KX2a0001_ZHSJ_35-1574a'/><line xml:id='KX2a0001_ZHSJ_35-1574a.01'>〔一〕　集解賈逵曰：「以小加大．」　索隱干謂犯也．言曹因[⿱𠫓廾]晉而犯宋，遂致滅也．裴氏引賈逵注云「以小加大」</line>
+<line xml:id='KX2a0001_ZHSJ_35-1574a.02'>　　　　者，加，陵也，小即曹也，大謂晉及宋也．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1574a.03'>　　太史公曰：〔一〕余尋曹共公之不用僖負羈，乃乘軒者三百人，〔二〕知唯德之不建．及振</line>
+<line xml:id='KX2a0001_ZHSJ_35-1574a.04'>鐸之夢，豈不欲引曹之祀者哉？如公孫彊不脩厥政，叔鐸之祀忽諸．〔三〕</line>
+<line xml:id='KX2a0001_ZHSJ_35-1574a.05'>〔一〕　索隱檢諸本或無此論．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1574a.06'>〔二〕　正義晉世家云：「晉師入曹，數之，以其不用僖負羈言，而美女乘軒三百人也．」</line>
+<line xml:id='KX2a0001_ZHSJ_35-1574a.07'>〔三〕　正義至如公孫彊不脩霸道之政，而伯陽之子立，叔鐸猶尚饗祭祀，豈合忽絕之哉．</line>
+<line xml:id='KX2a0001_ZHSJ_35-1574a.08'>【索隱述贊】武王之弟，管､蔡及霍．周公居相，流言是作．狼跋致艱，鴟鴞討惡．胡能改行，克復其</line>
+<line xml:id='KX2a0001_ZHSJ_35-1574a.09'>爵．獻舞執楚，遇息禮薄．穆侯虜齊，蕩舟乖謔．曹共輕晉，負羈先覺．伯陽夢社，祚傾振鐸．</line>
 </surface>
 </surfaceGrp>

@@ -1,13 +1,13 @@
 <surfaceGrp xmlns='http://www.tei-c.org/ns/1.0' xml:id='KX2a0001_ZHSJ_022'>
 <surface type='dummy'></surface>
-<surface xml:id='SHIJI_ZHSJ_22-1119a-z'>
-<pb ed='ZHSJ' n='22-1119a' xml:id='SHIJI_ZHSJ_22-1119a'/><line xml:id='SHIJI_ZHSJ_22-1119a.01'>史記卷二十二</line>
-<line xml:id='SHIJI_ZHSJ_22-1119a.02'>　　漢興以來將相名臣年表第十</line>
+<surface xml:id='KX2a0001_ZHSJ_22-1119a-z'>
+<pb ed='ZHSJ' n='22-1119a' xml:id='KX2a0001_ZHSJ_22-1119a'/><line xml:id='KX2a0001_ZHSJ_22-1119a.01'>史記卷二十二</line>
+<line xml:id='KX2a0001_ZHSJ_22-1119a.02'>　　漢興以來將相名臣年表第十</line>
 </surface>
-<surface xml:id='SHIJI_ZHSJ_22-1155a-z'>
-<pb ed='ZHSJ' n='22-1155a' xml:id='SHIJI_ZHSJ_22-1155a'/><line xml:id='SHIJI_ZHSJ_22-1155a.01'>【索隱述贊】高祖初起，嘯命羣雄．天下未定，王我漢中．三傑既得，六奇獻功．章邯巳破，蕭何築</line>
-<line xml:id='SHIJI_ZHSJ_22-1155a.02'>宮．周勃厚重，朱虛至忠．陳平作相，條侯總戎．丙魏立志，湯堯飾躬．天漢之後．表述非功．</line>
+<surface xml:id='KX2a0001_ZHSJ_22-1155a-z'>
+<pb ed='ZHSJ' n='22-1155a' xml:id='KX2a0001_ZHSJ_22-1155a'/><line xml:id='KX2a0001_ZHSJ_22-1155a.01'>【索隱述贊】高祖初起，嘯命羣雄．天下未定，王我漢中．三傑既得，六奇獻功．章邯巳破，蕭何築</line>
+<line xml:id='KX2a0001_ZHSJ_22-1155a.02'>宮．周勃厚重，朱虛至忠．陳平作相，條侯總戎．丙魏立志，湯堯飾躬．天漢之後．表述非功．</line>
 </surface>
-<surface xml:id='SHIJI_ZHSJ_22-1156a-z'>
-<pb ed='ZHSJ' n='22-1156a' xml:id='SHIJI_ZHSJ_22-1156a'/></surface>
+<surface xml:id='KX2a0001_ZHSJ_22-1156a-z'>
+<pb ed='ZHSJ' n='22-1156a' xml:id='KX2a0001_ZHSJ_22-1156a'/></surface>
 </surfaceGrp>
